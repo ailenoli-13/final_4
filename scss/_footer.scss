@@ -1,0 +1,9 @@
+/*footer*/
+
+footer{
+	grid-area: footer;
+	color: firebrick;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between
+}

@@ -1,0 +1,26 @@
+/*header*/
+$brown: brown;
+$padding-size: 40px;
+
+
+header nav .estiloLista5{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	list-style:none;
+	justify-content: space-evenly;
+	padding: $padding-size;
+	font-size: 1.2rem;
+	color:$brown;
+}
+
+
+.estiloLista5 li a {
+  text-decoration: none;
+  color: $brown;
+}
+
+header{
+	background-color: sandlybrown;
+}
+
